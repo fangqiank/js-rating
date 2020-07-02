@@ -1,0 +1,19 @@
+{
+  "name": "rating",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fangqiank/rating/issues"
+  },
+  "homepage": "https://github.com/fangqiank/js-rating",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
